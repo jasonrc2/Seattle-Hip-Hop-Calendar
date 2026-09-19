@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Seattle Hip-Hop Calendar</title>
+<meta name="description" content="Seattle hip-hop community calendar for breaking, DJing, cyphers, battles, beatmaking, workshops and live hip-hop.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main>
+  <header class="hero">
+    <div class="eyebrow">SEATTLE · 206</div>
+    <h1>Hip-Hop Community Calendar</h1>
+    <p>Breaking · DJing · Cyphers · Battles · Beatmaking · Graffiti · Workshops · Live Hip-Hop</p>
+  </header>
+
+  <section class="controls">
+    <div class="filters" id="filters">
+      <button class="active" data-filter="All">All</button>
+      <button data-filter="Breaking">Breaking</button>
+      <button data-filter="DJ / Turntablism">DJ / Turntablism</button>
+      <button data-filter="Dance / Cypher">Dance / Cypher</button>
+      <button data-filter="Battles">Battles</button>
+      <button data-filter="Music / Hip-Hop">Music / Hip-Hop</button>
+      <button data-filter="Production">Production</button>
+      <button data-filter="Graffiti">Graffiti</button>
+    </div>
+    <div class="view-controls">
+      <button id="prev">←</button>
+      <button id="today">Today</button>
+      <button id="next">→</button>
+      <strong id="month"></strong>
+    </div>
+  </section>
+
+  <section class="calendar" aria-label="Calendar">
+    <div class="weekdays">
+      <span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span><span>Sun</span>
+    </div>
+    <div id="days" class="days"></div>
+  </section>
+
+  <section class="upcoming">
+    <div class="section-heading">
+      <div>
+        <div class="eyebrow">WHAT'S HAPPENING</div>
+        <h2>Upcoming</h2>
+      </div>
+      <span id="count"></span>
+    </div>
+    <div id="events"></div>
+  </section>
+
+  <footer>
+    <span>Built for the Seattle hip-hop community.</span>
+    <span>Events are linked to their original sources.</span>
+  </footer>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
