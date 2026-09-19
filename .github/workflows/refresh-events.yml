@@ -1,27 +1,45 @@
-name: Refresh Seattle Hip-Hop events
+name: Refresh Seattle Hip-Hop Events
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "17 15 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  refresh:
+  refresh-events:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - name: Placeholder
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
         run: |
-          echo "Event collector goes here."
-          echo "Connect approved public sources and update public/events.json."
-      # Once the collector is implemented:
-      # - run: python scripts/collect_events.py
-      # - run: |
-      #     git config user.name "event-bot"
-      #     git config user.email "actions@github.com"
-      #     git add public/events.json
-      #     git diff --cached --quiet || git commit -m "Refresh events"
-      #     git push
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Collect events
+        run: |
+          python scripts/collect_events.py
+
+      - name: Commit updated events
+        run: |
+          git config user.name "Seattle Hip-Hop Calendar Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add public/events.json
+
+          if git diff --cached --quiet; then
+            echo "No event changes detected."
+          else
+            git commit -m "Update Seattle hip-hop events"
+            git push
+          fi
