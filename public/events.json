@@ -1,35 +1,5 @@
 [
   {
-    "id": "soulful-mondays-2026-10-05-washington-hall",
-    "date": "2026-10-05",
-    "title": "Soulful Mondays",
-    "venue": "Washington Hall",
-    "city": "Seattle",
-    "category": "Dance / Cypher",
-    "time": "6:00 PM – 9:00 PM",
-    "age": "All Ages",
-    "price": "Free",
-    "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
-    "source": "206 Zulu",
-    "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215205Z"
-  },
-  {
-    "id": "the-beat-cypher-2026-10-05-washington-hall",
-    "date": "2026-10-05",
-    "title": "The Beat Cypher",
-    "venue": "Washington Hall",
-    "city": "Seattle",
-    "category": "Production",
-    "time": "6:00 PM – 9:00 PM",
-    "age": "16+",
-    "price": "Free",
-    "description": "Beatmaking session followed by a beat cypher. Bring your gear and share your work.",
-    "source": "206 Zulu",
-    "url": "https://www.206zulu.org/programs/the-beat-cypher/",
-    "last_verified_at": "2026-10-05T22:02:29.215303Z"
-  },
-  {
     "id": "soul-city-2026-10-07-the-beacon",
     "date": "2026-10-07",
     "title": "Soul City",
@@ -42,7 +12,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215499Z"
+    "last_verified_at": "2026-10-06T20:21:51.351295Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-10-08-the-studio-at-2-u",
@@ -57,7 +27,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215352Z"
+    "last_verified_at": "2026-10-06T20:21:51.351085Z"
   },
   {
     "id": "headspin-1-on-1-all-styles-dance-battle-2026-10-10-the-octopus-bar",
@@ -72,7 +42,7 @@
     "description": "Monthly 1-on-1 all-styles dance battle.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215462Z"
+    "last_verified_at": "2026-10-06T20:21:51.351243Z"
   },
   {
     "id": "soulful-mondays-2026-10-12-washington-hall",
@@ -87,7 +57,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215219Z"
+    "last_verified_at": "2026-10-06T20:21:51.350886Z"
   },
   {
     "id": "soul-city-2026-10-14-the-beacon",
@@ -102,7 +72,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215505Z"
+    "last_verified_at": "2026-10-06T20:21:51.351304Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-10-15-the-studio-at-2-u",
@@ -117,7 +87,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215358Z"
+    "last_verified_at": "2026-10-06T20:21:51.351094Z"
   },
   {
     "id": "soulful-mondays-2026-10-19-washington-hall",
@@ -132,7 +102,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215224Z"
+    "last_verified_at": "2026-10-06T20:21:51.350904Z"
   },
   {
     "id": "soul-city-2026-10-21-the-beacon",
@@ -147,7 +117,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215510Z"
+    "last_verified_at": "2026-10-06T20:21:51.351312Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-10-22-the-studio-at-2-u",
@@ -162,7 +132,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215364Z"
+    "last_verified_at": "2026-10-06T20:21:51.351103Z"
   },
   {
     "id": "soulful-mondays-2026-10-26-washington-hall",
@@ -177,7 +147,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215228Z"
+    "last_verified_at": "2026-10-06T20:21:51.350912Z"
   },
   {
     "id": "soul-city-2026-10-28-the-beacon",
@@ -192,7 +162,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215514Z"
+    "last_verified_at": "2026-10-06T20:21:51.351319Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-10-29-the-studio-at-2-u",
@@ -207,7 +177,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215369Z"
+    "last_verified_at": "2026-10-06T20:21:51.351112Z"
   },
   {
     "id": "soulful-mondays-2026-11-02-washington-hall",
@@ -222,7 +192,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215232Z"
+    "last_verified_at": "2026-10-06T20:21:51.350919Z"
   },
   {
     "id": "the-beat-cypher-2026-11-02-washington-hall",
@@ -237,7 +207,7 @@
     "description": "Beatmaking session followed by a beat cypher. Bring your gear and share your work.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/programs/the-beat-cypher/",
-    "last_verified_at": "2026-10-05T22:02:29.215311Z"
+    "last_verified_at": "2026-10-06T20:21:51.351039Z"
   },
   {
     "id": "soul-city-2026-11-04-the-beacon",
@@ -252,7 +222,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215521Z"
+    "last_verified_at": "2026-10-06T20:21:51.351327Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-11-05-the-studio-at-2-u",
@@ -267,7 +237,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215375Z"
+    "last_verified_at": "2026-10-06T20:21:51.351122Z"
   },
   {
     "id": "soulful-mondays-2026-11-09-washington-hall",
@@ -282,7 +252,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215236Z"
+    "last_verified_at": "2026-10-06T20:21:51.350925Z"
   },
   {
     "id": "soul-city-2026-11-11-the-beacon",
@@ -297,7 +267,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215526Z"
+    "last_verified_at": "2026-10-06T20:21:51.351337Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-11-12-the-studio-at-2-u",
@@ -312,7 +282,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215381Z"
+    "last_verified_at": "2026-10-06T20:21:51.351131Z"
   },
   {
     "id": "headspin-1-on-1-all-styles-dance-battle-2026-11-14-the-octopus-bar",
@@ -327,7 +297,7 @@
     "description": "Monthly 1-on-1 all-styles dance battle.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215471Z"
+    "last_verified_at": "2026-10-06T20:21:51.351255Z"
   },
   {
     "id": "soulful-mondays-2026-11-16-washington-hall",
@@ -342,7 +312,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215239Z"
+    "last_verified_at": "2026-10-06T20:21:51.350930Z"
   },
   {
     "id": "soul-city-2026-11-18-the-beacon",
@@ -357,7 +327,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215533Z"
+    "last_verified_at": "2026-10-06T20:21:51.351343Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-11-19-the-studio-at-2-u",
@@ -372,7 +342,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215387Z"
+    "last_verified_at": "2026-10-06T20:21:51.351139Z"
   },
   {
     "id": "soulful-mondays-2026-11-23-washington-hall",
@@ -387,7 +357,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215243Z"
+    "last_verified_at": "2026-10-06T20:21:51.350936Z"
   },
   {
     "id": "soul-city-2026-11-25-the-beacon",
@@ -402,7 +372,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215538Z"
+    "last_verified_at": "2026-10-06T20:21:51.351350Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-11-26-the-studio-at-2-u",
@@ -417,7 +387,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215394Z"
+    "last_verified_at": "2026-10-06T20:21:51.351147Z"
   },
   {
     "id": "soulful-mondays-2026-11-30-washington-hall",
@@ -432,7 +402,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215246Z"
+    "last_verified_at": "2026-10-06T20:21:51.350948Z"
   },
   {
     "id": "soul-city-2026-12-02-the-beacon",
@@ -447,7 +417,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215543Z"
+    "last_verified_at": "2026-10-06T20:21:51.351360Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-12-03-the-studio-at-2-u",
@@ -462,7 +432,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215400Z"
+    "last_verified_at": "2026-10-06T20:21:51.351156Z"
   },
   {
     "id": "soulful-mondays-2026-12-07-washington-hall",
@@ -477,7 +447,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215249Z"
+    "last_verified_at": "2026-10-06T20:21:51.350957Z"
   },
   {
     "id": "the-beat-cypher-2026-12-07-washington-hall",
@@ -492,7 +462,7 @@
     "description": "Beatmaking session followed by a beat cypher. Bring your gear and share your work.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/programs/the-beat-cypher/",
-    "last_verified_at": "2026-10-05T22:02:29.215317Z"
+    "last_verified_at": "2026-10-06T20:21:51.351048Z"
   },
   {
     "id": "soul-city-2026-12-09-the-beacon",
@@ -507,7 +477,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215548Z"
+    "last_verified_at": "2026-10-06T20:21:51.351368Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-12-10-the-studio-at-2-u",
@@ -522,7 +492,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215406Z"
+    "last_verified_at": "2026-10-06T20:21:51.351167Z"
   },
   {
     "id": "headspin-1-on-1-all-styles-dance-battle-2026-12-12-the-octopus-bar",
@@ -537,7 +507,7 @@
     "description": "Monthly 1-on-1 all-styles dance battle.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215479Z"
+    "last_verified_at": "2026-10-06T20:21:51.351269Z"
   },
   {
     "id": "soulful-mondays-2026-12-14-washington-hall",
@@ -552,7 +522,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215254Z"
+    "last_verified_at": "2026-10-06T20:21:51.350964Z"
   },
   {
     "id": "soul-city-2026-12-16-the-beacon",
@@ -567,7 +537,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215553Z"
+    "last_verified_at": "2026-10-06T20:21:51.351375Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-12-17-the-studio-at-2-u",
@@ -582,7 +552,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215412Z"
+    "last_verified_at": "2026-10-06T20:21:51.351174Z"
   },
   {
     "id": "soulful-mondays-2026-12-21-washington-hall",
@@ -597,7 +567,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215258Z"
+    "last_verified_at": "2026-10-06T20:21:51.350976Z"
   },
   {
     "id": "soul-city-2026-12-23-the-beacon",
@@ -612,7 +582,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215560Z"
+    "last_verified_at": "2026-10-06T20:21:51.351383Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-12-24-the-studio-at-2-u",
@@ -627,7 +597,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215420Z"
+    "last_verified_at": "2026-10-06T20:21:51.351185Z"
   },
   {
     "id": "soulful-mondays-2026-12-28-washington-hall",
@@ -642,7 +612,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215266Z"
+    "last_verified_at": "2026-10-06T20:21:51.350985Z"
   },
   {
     "id": "soul-city-2026-12-30-the-beacon",
@@ -657,7 +627,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215565Z"
+    "last_verified_at": "2026-10-06T20:21:51.351391Z"
   },
   {
     "id": "headspin-thursday-open-practice-2026-12-31-the-studio-at-2-u",
@@ -672,7 +642,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215425Z"
+    "last_verified_at": "2026-10-06T20:21:51.351194Z"
   },
   {
     "id": "soulful-mondays-2027-01-04-washington-hall",
@@ -687,7 +657,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215272Z"
+    "last_verified_at": "2026-10-06T20:21:51.350993Z"
   },
   {
     "id": "the-beat-cypher-2027-01-04-washington-hall",
@@ -702,7 +672,7 @@
     "description": "Beatmaking session followed by a beat cypher. Bring your gear and share your work.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/programs/the-beat-cypher/",
-    "last_verified_at": "2026-10-05T22:02:29.215323Z"
+    "last_verified_at": "2026-10-06T20:21:51.351059Z"
   },
   {
     "id": "soul-city-2027-01-06-the-beacon",
@@ -717,7 +687,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215570Z"
+    "last_verified_at": "2026-10-06T20:21:51.351398Z"
   },
   {
     "id": "headspin-thursday-open-practice-2027-01-07-the-studio-at-2-u",
@@ -732,7 +702,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215431Z"
+    "last_verified_at": "2026-10-06T20:21:51.351203Z"
   },
   {
     "id": "headspin-1-on-1-all-styles-dance-battle-2027-01-09-the-octopus-bar",
@@ -747,7 +717,7 @@
     "description": "Monthly 1-on-1 all-styles dance battle.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215489Z"
+    "last_verified_at": "2026-10-06T20:21:51.351281Z"
   },
   {
     "id": "soulful-mondays-2027-01-11-washington-hall",
@@ -762,7 +732,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215277Z"
+    "last_verified_at": "2026-10-06T20:21:51.351000Z"
   },
   {
     "id": "soul-city-2027-01-13-the-beacon",
@@ -777,7 +747,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215576Z"
+    "last_verified_at": "2026-10-06T20:21:51.351406Z"
   },
   {
     "id": "headspin-thursday-open-practice-2027-01-14-the-studio-at-2-u",
@@ -792,7 +762,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215438Z"
+    "last_verified_at": "2026-10-06T20:21:51.351211Z"
   },
   {
     "id": "soulful-mondays-2027-01-18-washington-hall",
@@ -807,7 +777,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215282Z"
+    "last_verified_at": "2026-10-06T20:21:51.351007Z"
   },
   {
     "id": "soul-city-2027-01-20-the-beacon",
@@ -822,7 +792,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215581Z"
+    "last_verified_at": "2026-10-06T20:21:51.351414Z"
   },
   {
     "id": "headspin-thursday-open-practice-2027-01-21-the-studio-at-2-u",
@@ -837,7 +807,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215443Z"
+    "last_verified_at": "2026-10-06T20:21:51.351220Z"
   },
   {
     "id": "soulful-mondays-2027-01-25-washington-hall",
@@ -852,7 +822,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215287Z"
+    "last_verified_at": "2026-10-06T20:21:51.351014Z"
   },
   {
     "id": "soul-city-2027-01-27-the-beacon",
@@ -867,7 +837,7 @@
     "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
     "source": "Massive Monkees / The Beacon",
     "url": "https://www.massivemonkees.com/the-beacon-studio",
-    "last_verified_at": "2026-10-05T22:02:29.215587Z"
+    "last_verified_at": "2026-10-06T20:21:51.351422Z"
   },
   {
     "id": "headspin-thursday-open-practice-2027-01-28-the-studio-at-2-u",
@@ -882,7 +852,7 @@
     "description": "Weekly open practice session.",
     "source": "HeadSpin Productions",
     "url": "https://headspinproductions.org/events",
-    "last_verified_at": "2026-10-05T22:02:29.215449Z"
+    "last_verified_at": "2026-10-06T20:21:51.351229Z"
   },
   {
     "id": "soulful-mondays-2027-02-01-washington-hall",
@@ -897,7 +867,7 @@
     "description": "Free, all-ages, all-styles weekly Hip-Hop gathering at Washington Hall.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/venue/washington-hall/",
-    "last_verified_at": "2026-10-05T22:02:29.215293Z"
+    "last_verified_at": "2026-10-06T20:21:51.351022Z"
   },
   {
     "id": "the-beat-cypher-2027-02-01-washington-hall",
@@ -912,6 +882,21 @@
     "description": "Beatmaking session followed by a beat cypher. Bring your gear and share your work.",
     "source": "206 Zulu",
     "url": "https://www.206zulu.org/programs/the-beat-cypher/",
-    "last_verified_at": "2026-10-05T22:02:29.215329Z"
+    "last_verified_at": "2026-10-06T20:21:51.351068Z"
+  },
+  {
+    "id": "soul-city-2027-02-03-the-beacon",
+    "date": "2027-02-03",
+    "title": "Soul City",
+    "venue": "The Beacon",
+    "city": "Seattle",
+    "category": "Dance / Cypher",
+    "time": "8:45 PM – 10:45 PM",
+    "age": "",
+    "price": "$7",
+    "description": "Weekly House session hosted by Orb. Open community dance session, often with a live DJ.",
+    "source": "Massive Monkees / The Beacon",
+    "url": "https://www.massivemonkees.com/the-beacon-studio",
+    "last_verified_at": "2026-10-06T20:21:51.351429Z"
   }
 ]
